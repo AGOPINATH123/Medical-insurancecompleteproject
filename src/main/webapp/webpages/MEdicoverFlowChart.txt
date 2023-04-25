@@ -1,0 +1,19 @@
+Medical Insurance
+
+home -> image + mention below dtails as button +
+registration  -> select premium -> 4 types -> individual(3lac),
+ individual+wife, individual+wife+ children, 
+individual+wife+children+2 dependency (aadhar uniq id + id)
+
+user data -> id -> get the data from table -> download
+
+claims -> Heart, accidents, maternaty, etc -> 
+get the list of hospitals -> choose one hospital -> print ?????
+
+about -> company details -> home
+
+contact us -> mail id, address, contact details -> home
+
+
+pages
+Registrationpage.jsp
